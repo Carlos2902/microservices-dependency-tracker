@@ -1,0 +1,10 @@
+#Default ignore
+*.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
